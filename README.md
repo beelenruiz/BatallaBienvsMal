@@ -9,5 +9,4 @@ El resultado puede ser que gane el bien, como que gane el mal o que haya un empa
 
 Una posible salida del programa podría ser:
 
-
 ![image](https://github.com/user-attachments/assets/de15e7c0-4f19-4343-8d52-5de07d5ef8ac)
